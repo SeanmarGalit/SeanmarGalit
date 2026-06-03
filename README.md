@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I'm Seanmar Galit 👋
 
-<!--
-**SeanmarGalit/SeanmarGalit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 BS Applied Mathematics Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Aspiring Data Scientist
+
+👨‍🏫 Senior High School Mathematics Instructor
+
+🇵🇭 Philippines
+
+## Skills
+
+- Python
+- SQL
+- Power BI
+- Pandas
+- NumPy
+- Machine Learning
+- Statistical Analysis
+
+## Current Goals
+
+- Building Data Science Projects
+- Learning Advanced Machine Learning
+- Transitioning into Data Analytics and Data Science
+
+## Connect With Me
+
+LinkedIn: www.linkedin.com/in/seanmar-galit-b455b4288
