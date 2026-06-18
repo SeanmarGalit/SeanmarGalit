@@ -1,30 +1,7 @@
-## Hi, I'm Seanmar Galit 👋
+Hi, I'm Seanmar 👋
 
+I'm a BS Applied Mathematics graduate and senior high school math teacher in the Philippines, currently transitioning into data science. I bring strong analytical foundations from teaching statistics and math — and I'm now applying that to real-world data problems using Python, SQL, and machine learning.
 
-🎓 BS Applied Mathematics Graduate
+![Seanmar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeanmarGalit&show_icons=true&theme=default)
 
-📊 Aspiring Data Scientist
-
-👨‍🏫 Senior High School Mathematics Instructor
-
-🇵🇭 Philippines
-
-## Skills
-
-- Python
-- SQL
-- Power BI
-- Pandas
-- NumPy
-- Machine Learning
-- Statistical Analysis
-
-## Current Goals
-
-- Building Data Science Projects
-- Learning Advanced Machine Learning
-- Transitioning into Data Analytics and Data Science
-
-## Connect With Me
-
-LinkedIn: www.linkedin.com/in/seanmar-galit-b455b4288
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanmarGalit&layout=compact)
