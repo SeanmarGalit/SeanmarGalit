@@ -1,7 +1,41 @@
-Hi, I'm Seanmar 👋
+## Hi, I'm Seanmar 👋
 
-I'm a BS Applied Mathematics graduate and senior high school math teacher in the Philippines, currently transitioning into data science. I bring strong analytical foundations from teaching statistics and math — and I'm now applying that to real-world data problems using Python, SQL, and machine learning.
+I'm a BS Applied Mathematics graduate and senior high school math teacher in the Philippines — now channeling my analytical background into data science and machine learning.
 
-![Seanmar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeanmarGalit&show_icons=true&theme=default)
+I've spent a year helping students understand patterns and numbers. Now I'm applying that same thinking to real-world datasets.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanmarGalit&layout=compact)
+---
+
+### 🛠 Skills & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+---
+
+### 📌 What I'm Working On
+
+- 🔭 Building data science projects with real-world datasets
+- 📚 Deepening my machine learning skills (currently: classification & regression)
+- 🎯 Transitioning into a data analyst or data scientist role
+
+---
+
+### 📊 GitHub Stats
+
+![Seanmar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeanmarGalit&show_icons=true&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanmarGalit&layout=compact&hide_border=true&theme=default)
+
+---
+
+### 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seanmar-galit-b455b4288)
+
+---
+
+*Open to collaborations on data science, educational tools, or anything math-related!*
