@@ -25,12 +25,6 @@ I've spent a year helping students understand patterns and numbers. Now I'm appl
 
 ---
 
-### 📊 GitHub Stats
-
-![Seanmar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeanmarGalit&show_icons=true&hide_border=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanmarGalit&layout=compact&hide_border=true&theme=default)
-
----
 
 ### 🤝 Connect With Me
 
